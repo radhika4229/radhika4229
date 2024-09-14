@@ -1,7 +1,6 @@
-hello,i am radhika sishodiya
-i belong to bulandshahr
-now i am pursuing my btech cse from abes engineering college
-i live in khera chouganpur greater noida 
+Hello,_ _am radhika sishodiya
+I belong to bulandshahr
+now I am pursuing my btech from abes engineering college 
 ...
 
 <!---
