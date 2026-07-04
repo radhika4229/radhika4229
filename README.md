@@ -134,17 +134,7 @@ Java 21 • Spring Boot 3.3 • Spring Security • JPA/Hibernate • PostgreSQL
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radhika4229&theme=dark&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radhika4229&theme=dark&layout=compact&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
@@ -159,7 +149,7 @@ I'm always open to collaborating on **backend projects**, discussing **system de
 
 <div align="center">
 
-**"First, make it work. Then, make it fast. Finally, make it beautiful."** — Unknown
+**"First, make it work. Then, make it fast. Finally, make it beautiful."** 
 
 Built with ❤️ using Java, Spring Boot, and lots of coffee ☕
 
