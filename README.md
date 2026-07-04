@@ -9,7 +9,7 @@ Building Secure, Real-Time & AI-Powered Applications
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/radhika4229)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sishodiyaradhika@gmail.com)
 
-📧 **sishodiyaradhika@gmail.com** | 📱 **+91-XXXXXXXXXX** *(optional)*
+📧 **sishodiyaradhika@gmail.com** | 
 
 </div>
 
@@ -97,3 +97,71 @@ A full-stack application for students to study together with real-time collabora
 - ✅ Responsive React frontend with Tailwind CSS
 
 **Tech Stack:**
+Backend: Java 21 • Spring Boot 3.3 • Spring Security • Spring AI • PostgreSQL Frontend: React 18 • TypeScript • Vite • TanStack Query • Zustand
+
+
+**Live Demo:** [Study Room](https://studysync-frontend.vercel.app) | **Postman Collection:** Available in repo
+
+---
+
+### 🛒 **[CoreCart](https://github.com/radhika4229/CoreCart)**
+
+**Spring Boot E-Commerce Backend**
+
+A production-ready e-commerce backend demonstrating enterprise security patterns, database design, and REST API best practices.
+
+**Key Features:**
+- ✅ JWT-based authentication with refresh token rotation
+- ✅ Role-based access control (ADMIN, USER)
+- ✅ Product management & image uploads
+- ✅ Shopping cart & order processing
+- ✅ Secure Spring Security implementation
+- ✅ PostgreSQL with optimized queries
+
+**Tech Stack:**
+Java 21 • Spring Boot 3.3 • Spring Security • JPA/Hibernate • PostgreSQL • Maven
+
+
+---
+
+## 📈 Currently Learning
+
+- 🏗️ **System Design** - Building scalable distributed systems
+- 📊 **Advanced Database** - Query optimization, indexing strategies, replication
+- 🔄 **Microservices Architecture** - Spring Cloud, service-to-service communication
+- 🚀 **DevOps & Deployment** - Docker, Kubernetes, CI/CD pipelines
+- 🧠 **LLM Integration** - Advanced RAG, fine-tuning, prompt engineering
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radhika4229&theme=dark&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radhika4229&theme=dark&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on **backend projects**, discussing **system design**, or learning from the developer community.
+
+- 💼 **LinkedIn:** [linkedin.com/in/radhika-sishodiya](https://linkedin.com/in/radhika-sishodiya)
+- 🐙 **GitHub:** [@radhika4229](https://github.com/radhika4229)
+- 📧 **Email:** sishodiyaradhika@gmail.com
+- 💬 **Open to:** Internships, freelance projects, open-source contributions
+
+---
+
+<div align="center">
+
+**"First, make it work. Then, make it fast. Finally, make it beautiful."** — Unknown
+
+Built with ❤️ using Java, Spring Boot, and lots of coffee ☕
+
+</div>
+
